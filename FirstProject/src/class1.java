@@ -6,3 +6,4 @@ public specifier ()
 private specifier ()
 
 class test ()
+RIGHT CODE ()
